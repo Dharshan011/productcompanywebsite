@@ -293,7 +293,7 @@ people page:
           <ul>
               <li>Address: HYDERABAD <br></li>
               <li>Contact:976543210;<br></li>
-              <li>navyavenkat03@gmail.com.com<br></li>
+              <li>dharshanvenkat03@gmail.com.com<br></li>
               <br>VERIFIED*
           </ul>    
         </div>
@@ -301,7 +301,7 @@ people page:
     </div>
     </div>
       <div class="footer">
-        Copyright &#169; 2021 AYAN SOFTWARE LIMITED FOUNDER:V,NAVYA
+        Copyright &#169; 2021 AYAN SOFTWARE LIMITED FOUNDER:v dharshan
       </div>
     </div>
   </body>
