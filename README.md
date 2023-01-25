@@ -266,7 +266,7 @@ people page:
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 AYAN SOFTWARE LIMITED FOUNDER:V.NAVYA
+        Copyright &#169; 2021 AYAN SOFTWARE LIMITED FOUNDER:V.dharshan
       </div>
     </div>
   </body>
