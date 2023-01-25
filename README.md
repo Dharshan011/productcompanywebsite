@@ -42,7 +42,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/Eagle.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">AYAN SOFTWARE LIMITED</div>
@@ -93,7 +92,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">AYAN SOFTWARE LIMITED</div>
@@ -205,7 +203,6 @@ people page:
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">AYAN SOFTWARE LIMITED</div>
@@ -261,7 +258,6 @@ people page:
                     <div class="itemname">Roy Rubin</div>
                     <div class="itemprice">FOUNDER OF MAGNETO</div>
                 </div>
-
           </div>
         </div>
       </div>
@@ -312,7 +308,11 @@ people page:
 
 ### Home Page:
 ![home](https://user-images.githubusercontent.com/113497491/214311869-417251d9-6dd7-450b-b991-cdc147eedebe.png)
+
+
 ![product](https://user-images.githubusercontent.com/113497491/214311945-bcb3c34d-79f8-4c02-9bd4-d04622aa8a9e.png)
+
+
 ![77](https://user-images.githubusercontent.com/113497491/214311978-555d2fcd-4f1b-4b65-8b9c-82198edd1087.png)
 
 
