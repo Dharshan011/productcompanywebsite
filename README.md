@@ -80,7 +80,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright&#169;2021 AYAN SOFTWARE LIMITED FOUNDER:V.NAVYA
+        Copyright&#169;2021 AYAN SOFTWARE LIMITED FOUNDER:V.dharshan
        </div>
       </div>
     </body>
@@ -192,7 +192,7 @@ Publish the website in the given URL.
                       <div class="itemprice">Price: Rs.10000.00 </div>
                       </div>
       <div class="footer">
-        Copyright &#169; 2021 AYAN SOFTWARE LIMITED FOUNDER:V.NAVYA
+        Copyright &#169; 2021 AYAN SOFTWARE LIMITED FOUNDER:V.dharshan
       </div>
     </div>
   </body>
