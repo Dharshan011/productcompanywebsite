@@ -310,7 +310,20 @@ people page:
 ![home](https://user-images.githubusercontent.com/113497491/214311869-417251d9-6dd7-450b-b991-cdc147eedebe.png)
 
 
+
+
+
+
+
+
+
 ![product](https://user-images.githubusercontent.com/113497491/214311945-bcb3c34d-79f8-4c02-9bd4-d04622aa8a9e.png)
+
+
+
+
+
+
 
 
 ![77](https://user-images.githubusercontent.com/113497491/214311978-555d2fcd-4f1b-4b65-8b9c-82198edd1087.png)
